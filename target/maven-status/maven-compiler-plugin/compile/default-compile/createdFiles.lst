@@ -1,0 +1,11 @@
+net\okunivaxx\xenmsg\commands\ReloadCommand.class
+net\okunivaxx\xenmsg\XenMSG.class
+net\okunivaxx\xenmsg\commands\XmsgCommand.class
+net\okunivaxx\xenmsg\utils\PermissionManager.class
+net\okunivaxx\xenmsg\utils\MessagesManager.class
+net\okunivaxx\xenmsg\utils\MessageControlManager.class
+net\okunivaxx\xenmsg\storage\DatabaseManager.class
+net\okunivaxx\xenmsg\storage\MailboxManager.class
+net\okunivaxx\xenmsg\listeners\PlayerJoinListener.class
+net\okunivaxx\xenmsg\config\ConfigManager.class
+net\okunivaxx\xenmsg\commands\MailboxCommand.class
